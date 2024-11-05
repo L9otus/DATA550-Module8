@@ -1,12 +1,15 @@
 ---
 title: My first git repo
 author: Xiaohan Li
-output:github_document
+output: github_document
 ---
 
 # My first commit
 
 Here is some text that constitutes my first commit in my first repo.
+
+test for another commit.
+
 
 # My second commit
 
@@ -14,4 +17,4 @@ Here is more text that will be added in my second commit.
 
 # My third commit
 
-Here is final text that will be added in my third commit.
+Here is some final text that will be added in my third commit.
