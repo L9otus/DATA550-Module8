@@ -8,8 +8,8 @@ output: github_document
 
 Here is some text that constitutes my first commit in my first repo.
 
-test for another commit.
-
+text for another commit.
+text for yet another commit.
 
 # My second commit
 
